@@ -1,2 +1,1 @@
- I USED w3 school
- 
+pp2 exercises
